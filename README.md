@@ -64,7 +64,7 @@ A full-featured Learning Management System built with the MERN Stack (MongoDB, E
 ## 📁 Project Structure
 
 ```
-lms-starter-project/
+lms-project/
 ├── backend/
 │   ├── config/
 │   │   └── db.js                 # MongoDB connection
@@ -156,8 +156,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/lms-starter-project.git
-cd lms-starter-project
+git clone https://github.com/Shahzadi007/LMSProject.git
+cd lms-project
 ```
 
 ### 2. Backend Setup
