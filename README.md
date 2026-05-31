@@ -87,3 +87,9 @@ The frontend application will open in your browser at http://localhost:3000
 ### Development Tools
 - npm - Package manager
 - Git - Version control
+
+### 📸 Project Screenshots
+
+Click the button below to view and download the screenshots for the Public, Admin, Instructor, and Student panels:
+
+[![Download Screenshots](https://img.shields.io/badge/Google_Drive-Download_Screenshots-1EA254?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1SDMUPA9IaHJlG4KwVUT30-VS7fcfhcOK?usp=sharing)
